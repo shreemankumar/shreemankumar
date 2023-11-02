@@ -5,13 +5,13 @@
 
 
 
-- 🌱 I’m currently learning **React,JS,DSA**
+- 🌱 I’m currently working **React,JS,DSA**
 
 - 💬 Ask me about **MEARN,DSA**
 
 - 📫 How to reach me **bshreemankumar@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact - **I am a creative individual who enjoys vibing with music and connecting with nature!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
