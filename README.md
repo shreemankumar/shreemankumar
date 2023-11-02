@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently working **React,JS,DSA**
+- 🌱 I’m currently working on **React,JS,DSA**
 
 - 💬 Ask me about **MEARN,DSA**
 
