@@ -1,4 +1,4 @@
-<img src="android pic.jpg" alt="app developer" width="100%">
+<img src="[android pic.jpg](https://wallpapers.com/images/hd/android-developer-it7n5u1rn04fd6v7.jpg)" alt="app developer" width="100%">
 <h1 align="center">Hi 👋, I'm Shreeman Badatya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif"  alt="coding" width="400">
