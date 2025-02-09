@@ -1,4 +1,4 @@
-<img src="[[https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F12-github-repositories-make-you-good-android-developer-shoaib-kakal&psig=AOvVaw1k_2An9RDDEBAGn1oK6Erw&ust=1739187843819000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLilr-3BtosDFQAAAAAdAAAAABAZ)](https://media.licdn.com/dms/image/C4D12AQGooQGFQT3G-Q/article-cover_image-shrink_720_1280/0/1648827436220?e=2147483647&v=beta&t=h2y6dz1G6NXThkJBenHAe9cVuK7JOJROOBhKVQ4Rl_I)" alt="app developer" width="100%">
+<img src="android pic.jpg" alt="app developer" width="100%">
 <h1 align="center">Hi 👋, I'm Shreeman Badatya</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif"  alt="coding" width="400">
