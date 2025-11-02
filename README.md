@@ -1,6 +1,12 @@
-<img src="https://wallpapers.com/images/hd/android-developer-it7n5u1rn04fd6v7.jpg" alt="app developer" width="100%">
-<h1 align="center">Hi 👋, I'm Shreeman Badatya</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+
+# 🚀 **Shreeman Kumar Badatya** | Software Development Engineer  
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=100&lines=Hey+there!+I'm+Shreeman+👋;AI+%26+Web+Dev+Enthusiast+🤖;Software+Development+Engineer+💻;Building+the+future+with+code+🚀)](https://git.io/typing-svg)
+
+</div>
+
 <img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif"  alt="coding" width="400">
 
 
